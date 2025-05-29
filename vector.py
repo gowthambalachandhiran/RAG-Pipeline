@@ -70,7 +70,7 @@ if add_documents_pdf and chunked_docs_pdf:
 
 # Similarity search options for PDF retriever
 retriever_pdf = vector_store_pdf.as_retriever(
-    search_type="cosine",  # You can change to "mmr" or other supported types
+    search_type="mmr",  # You can change to "mmr" or other supported types
     search_kwargs={"k": 5}
 )
 
