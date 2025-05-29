@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+rag
+chroma_pizza_db
+chrome_langchain_db
 # Distribution / packaging
 .Python
 build/

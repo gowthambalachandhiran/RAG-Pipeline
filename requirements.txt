@@ -1,0 +1,10 @@
+langchain_chroma
+langchain_openai
+langchain_community
+langchain_community[all]
+langchain_core
+pandas
+langchain
+torch
+sentence-transformers
+pypdf
