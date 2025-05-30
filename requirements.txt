@@ -1,6 +1,6 @@
 langchain_chroma
 langchain_openai
-langchain_community
+duckduckgo-search
 langchain_community[all]
 langchain_core
 pandas
@@ -12,3 +12,4 @@ ollama
 groq
 dotenv
 langchain_groq
+langchain
